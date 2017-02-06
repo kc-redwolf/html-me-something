@@ -1,0 +1,50 @@
+body {
+    background-color: #000000;
+}
+
+main {
+    background-color: #000aaa;
+}
+
+h1 {
+    color: #00FFFF;
+    text-align: center;
+}
+
+h3 {
+    color: lightblue;
+    text-align: justify;
+}
+
+h4 {
+    color: #fff000;
+    text-align: center;
+}
+h5 {
+    color: #bbb000;
+    text-align: left;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 14px;
+    text-align: justify;
+    color: #000bbb;
+}
+
+cite {
+    font-style: italic;
+    color: #dd00dd;
+}
+
+article {
+    display: block;
+}
+
+blockquote {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+}
