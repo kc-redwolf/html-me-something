@@ -9,12 +9,7 @@ body {
 
 img {
     display: block;
-    margin-left: auto;
-    margin-right: auto
-}
-
-button {
-    display: block;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto
 }
@@ -83,7 +78,7 @@ cite {
 
 article {
     display: block;
-
+    color: purple;
 }
 
 blockquote {
